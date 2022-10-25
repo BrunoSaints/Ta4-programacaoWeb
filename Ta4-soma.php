@@ -9,13 +9,13 @@
 <body>
     
 <?php
-$idade = "18";
-print "<p>Minha idade é $idade.</p>";
+$num = 20; 
+$soma = 10 + $num;
+$soma = "trinta";
+
+print $numero;
 ?>
-<?php
-print "<p>Impressão de múltiplas
-linhas.</p>";
-?>
+
 
 </body>
 </html>
