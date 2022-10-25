@@ -13,7 +13,7 @@ $num = 20;
 $soma = 10 + $num;
 $soma = "trinta";
 
-print $numero;
+print $soma;
 ?>
 
 
